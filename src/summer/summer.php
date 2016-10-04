@@ -246,8 +246,7 @@ function get_cms_pagelist ($cat, $timesort = -1)
 
 function get_filelist ($path, $ext = '')
 	{
-	if (!is_dir($path))
-		crash('Bad path for get_filelist: ' . $path);
+	if (!is_dir($path)) return array();
 
 	$list = array();
 
