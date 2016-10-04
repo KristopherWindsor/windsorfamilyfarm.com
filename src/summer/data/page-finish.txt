@@ -1,0 +1,15 @@
+</div>
+
+<div class="copyright">
+	&copy; 2008&mdash;2015 The Windsors
+</div>
+
+<?php
+
+// hit counter / IP log
+
+$f = fopen('../inc/iplog.php', 'a');
+fputs($f, $_SERVER["REMOTE_ADDR"] . ' (' . time() . ")n");
+fclose($f);
+
+?>

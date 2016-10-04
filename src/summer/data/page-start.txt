@@ -1,0 +1,9 @@
+<h1 class="heading"><?php echo $summer_sitetitle . ' ' . $summer_pagetitle; ?></h1>
+
+<?php show_nav(); ?>
+
+<div class="photos">
+	<?php global $pictures; echo $pictures; ?>
+</div>
+
+<div class="content">
