@@ -1,0 +1,1 @@
+You won't notice many changes at first, but this site now uses the Summer Web Dev Suite back-end, from [url]Summer Web Dev|http://www.summerwebdev.com/[/url]. This provides an easy way to update content, as well as a sitemap, and provisions for this news page and a blog.
