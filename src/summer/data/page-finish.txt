@@ -1,7 +1,7 @@
 </div>
 
 <div class="copyright">
-	&copy; 2008&mdash;2015 The Windsors
+	&copy; 2008&mdash;2017 The Windsors
 </div>
 
 <?php

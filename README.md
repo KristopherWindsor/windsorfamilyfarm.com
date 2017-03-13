@@ -1,2 +1,2 @@
 # windsorfamilyfarm.com
-http://windsorfamilyfarm.com
+https://windsorfamilyfarm.com
