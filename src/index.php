@@ -19,9 +19,6 @@ echo '<script>alert("Page not found; here is the home page instead.")</script>';
 
 show_content('main', 'home-main');
 
-show_news(3, true);
+show_news(1, true);
 
 finish();
-
-?>
-
