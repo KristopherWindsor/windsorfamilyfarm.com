@@ -18,4 +18,15 @@ function pic ($filename, $large = false)
 
 	$pictures .= "<a href=\"img/$filename.jpg\"><img class=\"$style\" src=\"img/$filename.jpg\" alt=\"\"></a><br>\n";
 	}
-?>
+
+function 📷 ($filename, $large = false)
+	{
+	global $pictures;
+
+	if ($large)
+		$style = 'picture_large';
+	else
+		$style = 'picture';
+
+	$pictures .= "<a href=\"📷/$filename.jpg\"><img class=\"$style\" src=\"img/$filename.jpg\" alt=\"\"></a><br>\n";
+	}
