@@ -28,5 +28,5 @@ function 📷 ($filename, $large = false)
 	else
 		$style = 'picture';
 
-	$pictures .= "<a href=\"📷/$filename.jpg\"><img class=\"$style\" src=\"img/$filename.jpg\" alt=\"\"></a><br>\n";
+	$pictures .= "<a href=\"📷/$filename.jpg\"><img class=\"$style\" src=\"📷/$filename.jpg\" alt=\"\"></a><br>\n";
 	}
