@@ -10,7 +10,7 @@ pic("tours/farm-camp");
 pic("tours/farm-camp-craft");
 pic("tours/4h-planting");
 pic("tours/tractor");
-📷("party-canopy");
+📷("🎪");
 
 start('parties');
 
