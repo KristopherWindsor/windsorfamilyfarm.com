@@ -3,12 +3,13 @@
 include('summer/summer.php');
 include('inc/functions.php');
 
-/*pic("organic/kaleb-watering");
-pic("organic/kim-planting");
-pic("organic/kristin-planting");
-pic("organic/kristof-picking");
-pic("organic/strawberries");
-pic("organic/strawberry-plastic");*/
+📷('alpaca/alpaca-kids');
+📷('alpaca/alpaca-party');
+📷('alpaca/alpaca-1');
+📷('alpaca/alpaca-2');
+📷('alpaca/alpaca-3');
+📷('alpaca/alpaca-4');
+📷('alpaca/feed-alpaca');
 
 start('alpacas');
 
