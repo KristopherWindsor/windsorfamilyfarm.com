@@ -5,10 +5,10 @@ include('inc/functions.php');
 
 📷('alpaca/alpaca-kids');
 📷('alpaca/alpaca-party');
-📷('alpaca/alpaca-1');
-📷('alpaca/alpaca-2');
-📷('alpaca/alpaca-3');
-📷('alpaca/alpaca-4');
+📷('alpaca/alpaca1');
+📷('alpaca/alpaca2');
+📷('alpaca/alpaca3');
+📷('alpaca/alpaca4');
 📷('alpaca/feed-alpaca');
 
 start('alpacas');
