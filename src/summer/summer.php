@@ -437,10 +437,17 @@ function show_nav ()
 		}
 
 	// super hax
-	echo '<li class="summer_nav_spacer"></li><li style="background-color: transparent">
-<a href="//www.facebook.com/pages/Windsor-Family-Farm/108250365877006">
-<iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FWindsor-Family-Farm%2F108250365877006&amp;layout=button_count&amp;show_faces=true&amp;width=116&amp;action=like&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:116px; height:21px;" allowTransparency="true"></iframe>
-</a></li>';
+	echo '
+		<li class="summer_nav_spacer"></li>
+		<li style="background-color: transparent">
+			<a href="https://www.instagram.com/windsorfamilyfarm/"><img src="/img/insta.png" alt="Instagram"></a>
+		</li>
+		<li class="summer_nav_spacer"></li>
+		<li style="background-color: transparent">
+			<a href="//www.facebook.com/pages/Windsor-Family-Farm/108250365877006">
+				<iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FWindsor-Family-Farm%2F108250365877006&amp;layout=button_count&amp;show_faces=true&amp;width=116&amp;action=like&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:116px; height:21px;" allowTransparency="true"></iframe>
+			</a>
+		</li>';
 
 	echo '</ul>' . "\n";
 	}
