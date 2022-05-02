@@ -5,7 +5,6 @@ include('inc/functions.php');
 
 pic("home/wff");
 pic("home/flag_mural");
-pic("home/kid_w_chick");
 📷("🌈");
 pic("home/suess");
 pic("home/goodbye-cow");
